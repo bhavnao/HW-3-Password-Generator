@@ -20,8 +20,9 @@ Generate a random password using javascript only and index.html and styl.css is 
 
 ## Screenshots
 
-<img src="./assets/images/Screenshot-1.png"/>
-<img src="./assets/images/Screenshot-2.png"/>
+![Password Generator](./assets/images/Screenshot-1.png)
+![Password Generator](./assets/images/Screenshot-2.png)
+
 
 ## Link to the deployed application
 https://bhavnao.github.io/HW-3-Password-Generator/
